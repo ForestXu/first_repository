@@ -1,0 +1,2 @@
+This file is used to learn the function of "add" and "commit" in git.
+
